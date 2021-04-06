@@ -1,0 +1,23 @@
+.line {
+    background: linear-gradient(red, yellow);
+    height: 3px;
+    width: 98%;
+}
+section {
+    margin: 10px;
+}
+.cl-img {
+    width: 200px;
+    height: 200px;
+    border: black solid 2px;
+    background-color: lightgray;
+}
+.cl-div {
+    margin: 15px;
+    border: black solid 1px;
+    background-color: white;
+    text-align: center;
+}
+.cl-label {
+    font-size: 20px;
+}
